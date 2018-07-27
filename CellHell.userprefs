@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Player.cs" Line="259" Column="7" />
+      <File FileName="Assets\Scripts\Systems\GameManager.cs" Line="135" Column="10" />
+      <File FileName="Assets\Scripts\Systems\Map.cs" Line="38" Column="58" />
+      <File FileName="Assets\Scripts\Systems\Location.cs" Line="18" Column="25" />
+      <File FileName="Assets\Scripts\Systems\FadeIn.cs" Line="39" Column="54" />
+      <File FileName="Assets\Scripts\Boss\Boss1.cs" Line="67" Column="9" />
+      <File FileName="Assets\Scripts\Normal Enemies\Enemy1.cs" Line="44" Column="38" />
+      <File FileName="Assets\Scripts\Pewpews\PeacemakerPewpew.cs" Line="45" Column="45" />
+      <File FileName="Assets\Scripts\Pewpews\Pewpew.cs" Line="34" Column="44" />
+      <File FileName="Assets\Scripts\Normal Enemies\Enemy2.cs" Line="41" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
